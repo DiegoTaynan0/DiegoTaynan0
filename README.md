@@ -1,4 +1,4 @@
-- 👋 Olá, me chamo Diego Taynan, estou aqui para compartilhar meus estudos e pequenos projetos.
+- 👋 Olá, me chamo #Diego Taynan#, estou aqui para compartilhar meus estudos e pequenos projetos.
 
 - 🌱 Estou estudando automação de testes com Robot Framework utilizando a biblioteca Selenium.
 
